@@ -11,6 +11,18 @@ This repository demonstrates strict **Test-Driven Development (TDD)** and **Clea
 
 🔗 https://car-dealership-inventory-1-1r4j.onrender.com
 
+Credential : 
+
+-> Admin 
+
+    : username : admin@gmail.com
+    : password : admin@123
+
+-> User
+
+    : username : user@gmail.com
+    : password : user@123
+
 ---
 
 ## 1. Project Overview
